@@ -8,3 +8,4 @@ dist/
 node_modules/
 coverage/
 bundle.js
+server/config/config.json
